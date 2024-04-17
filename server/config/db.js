@@ -10,7 +10,7 @@ if (LOCAL) {
 }
 else {
     exports.HostName = HostName = "Mongo DB Atlas";
-    exports.URI = URI = "mongodb+srv://osvaldoguerrerocastaneda:EidW5kaQhYRkmcBL@cluster0.lyki0mn.mongodb.net/contacts?retryWrites=true&w=majority&appName=Cluster0";
+    exports.URI = URI = "mongodb+srv://inft2202_admin:<password>@inft2202.kxtkviv.mongodb.net/";
 }
 exports.SessionSecret = "INFT2202SessionSecret";
 //# sourceMappingURL=db.js.map

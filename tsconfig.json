@@ -13,7 +13,7 @@
     "alwaysStrict": true,
     "noImplicitReturns": true,
     "esModuleInterop": true,
-    "emitDeclaration": true,
+    "declaration": true,
     "experimentalDecorators": true,
     "moduleResolution": "Node",
 

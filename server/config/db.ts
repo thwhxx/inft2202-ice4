@@ -8,7 +8,7 @@ if(LOCAL) {
 }else{
     HostName = "Mongo DB Atlas";
 
-    URI = "mongodb+srv://osvaldoguerrerocastaneda:EidW5kaQhYRkmcBL@cluster0.lyki0mn.mongodb.net/contacts?retryWrites=true&w=majority&appName=Cluster0"
+    URI = "mongodb+srv://inft2202_admin:<password>@inft2202.kxtkviv.mongodb.net/"
 }
 
 export { HostName, URI }
